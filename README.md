@@ -1,0 +1,2 @@
+# SMH-YOUTUBE-ANALYSIS
+Code for analysing Youtube comments from [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ) to search for comments related to [LockPickingLawyer](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ)
